@@ -21,7 +21,7 @@
 │ └─ 🧾 VS Code,Java,C,C++
 └─ 🥂 Let's Connect
 ```
-## 📊 My GitHub Stats:
+## 📊 My GitHub Stats
 
 <a href="https://github.com/Mitashibansal/Mitashibansal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitashibansal&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -30,7 +30,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mitashibansal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="mansijain014's GitHub Stats" />
 </a>
 
-## 🛠 Skills and Tecnologies:
+## 🛠 Skills and Tecnologies
 ![HTML5](https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-8A2BE2?&style=for-the-badge&logo=css3&logoColor=white)	
 ![Javascript](https://img.shields.io/badge/JavaScript-E34F26?style=for-the-badge&logo=javascript&logoColor=black)
@@ -52,7 +52,7 @@
 ![GitHub](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 
-## 🥂Let's Connect:
+## 🥂Let's Connect
 [<img align="left" alt="mitashi-bansal-2b35ab1ab | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="BansalMitashi | Instagram" width="40px" src="https://img.icons8.com/fluent/64/000000/instagram-new.png"/>][instagram]
 [<img align="left" width="40px" src="https://img.icons8.com/color/48/000000/youtube-play.png"/>][youtube]
