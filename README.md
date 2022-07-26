@@ -58,11 +58,12 @@
 [<img align="left" alt="BansalMitashi | Instagram" width="40px" src="https://img.icons8.com/fluent/64/000000/instagram-new.png"/>][instagram]
 [<img align="left" width="40px" src="https://img.icons8.com/color/48/000000/youtube-play.png"/>][youtube]
 [<img align="left" alt="Mitashibansal | GitHub" width="40px" src="https://img.icons8.com/color/64/000000/github.png"/>][github]
+[<img align="left" alt="Mitashi's GMail" width="40px" src="https://img.icons8.com/color/48/000000/gmail--v1.png" />][gmail]
 
 [linkedin]: https://www.linkedin.com/in/mitashi-bansal-2b35ab1ab/
 [instagram]: https://www.instagram.com/bansalmitashi/
 [youtube]: https://www.youtube.com/channel/UC6eOv81vQto2LDAXY_CRfoQ
 [github]: https://github.com/Mitashibansal
-
+[gmail]: mailto:mitashiagarwal456@gmail.com
 
 
