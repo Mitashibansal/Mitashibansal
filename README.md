@@ -26,9 +26,9 @@
 <a href="https://github.com/Mitashibansal/Mitashibansal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitashibansal&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/Mitashibansal/Mitashibansal">
+<!-- <a href="https://github.com/Mitashibansal/Mitashibansal">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mitashibansal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mitashi's GitHub Stats" />
-</a>
+</a> -->
 
 ## 🛠 Skills and Tecnologies
 ![HTML5](https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=html5&logoColor=white)
