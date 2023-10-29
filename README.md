@@ -57,17 +57,16 @@
 [<img align="left" alt="mitashi-bansal-2b35ab1ab | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="BansalMitashi | Instagram" width="40px" src="https://img.icons8.com/fluent/64/000000/instagram-new.png"/>][instagram]
 [<img align="left" width="40px" src="https://img.icons8.com/color/48/000000/youtube-play.png"/>][youtube]
+[<img align="left" alt="mitashi15001 | Medium" width="40px" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png"/>][medium]
 [<img align="left" alt="Mitashibansal | GitHub" width="40px" src="https://img.icons8.com/color/64/000000/github.png"/>][github]
 [<img align="left" alt="Mitashi's GMail" width="40px" src="https://img.icons8.com/color/48/000000/gmail--v1.png" />][gmail]
-[<img align="left" alt="mitashi15001 | Medium" width="40px" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png"/>][medium]
-
 
 
 [linkedin]: https://www.linkedin.com/in/mitashi-bansal-2b35ab1ab/
 [instagram]: https://www.instagram.com/bansalmitashi/
 [youtube]: https://www.youtube.com/channel/UC6eOv81vQto2LDAXY_CRfoQ
+[medium]: https://mitashi15001.medium.com/
 [github]: https://github.com/Mitashibansal
 [gmail]: mailto:mitashiagarwal456@gmail.com
-[medium]: https://mitashi15001.medium.com/
 
 
